@@ -3,7 +3,7 @@ module "account_request_01" {
 
   control_tower_parameters = {
     AccountEmail              = "owinonyagarabraham@gmail.com"
-    AccountName               = "Vendor-account-1"
+    AccountName               = "Vendor-account-001"
     ManagedOrganizationalUnit = "Infrastructure (ou-15wl-64pnmhtw)" 
     SSOUserEmail              = "owinonyagarabraham@gmail.com"
     SSOUserFirstName          = "Owino"
